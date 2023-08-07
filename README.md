@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivysandcat. I love Human-computer interaction (HCI). I am a graduate student at Western Governors University. =) Go Night Owls!
-- 👀 I’m interested in ... learning experience design, human-computer interaction, digital gardens, accessibility, higher ed, Neopets, the Elder Scrolls and Fallout series lore, design, project management, and financial literacy education. My big passion outside of computers is feline care, nursing, training, and behaviorism.
+- 👀 I’m interested in ... learning experience design, human-computer interaction, digital gardens, accessibility, higher ed, Neopets, the Elder Scrolls and Fallout series lore, design, project management, and financial literacy education. My big passion outside of computers is feline care, nursing, training, and behaviorism. 🐈
 - 🌱 I’m currently learning ... html, css, javascript, articulate storyline, webflow, PIANO!
 - 💞️ I’m looking to collaborate on ...anything re: digital gardens
 - 📫 How to reach me ... Meow out your nearest window and I'll be there!
